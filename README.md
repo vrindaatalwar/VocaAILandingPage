@@ -2,9 +2,9 @@
 
 A premium, high-conversion waitlist landing page designed for cutting-edge AI startups. Built with **React 19**, **Vite**, and **Tailwind CSS**, featuring a sophisticated WebGL-powered cosmic background.
 
-![AI Agents Waitlist Preview](file:///h:/19.%20Agentic%20Tools/src/assets/localhost_5173_.png)
+![AI Agents Waitlist Preview](src/assets/localhost_5173_.png)
 
-[![GitHub stars](https://img.shields.io/github/stars/vrindaatalwar/TorjanHorse_ET-5.svg?style=social&label=Star&maxAge=2592000)](https://github.com/vrindaatalwar/TorjanHorse_ET-5)
+[![GitHub stars](https://img.shields.io/github/stars/vrindaatalwar/AI-Agent-Waitlist.svg?style=social&label=Star&maxAge=2592000)](https://github.com/vrindaatalwar/AI-Agent-Waitlist)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
