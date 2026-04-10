@@ -42,8 +42,8 @@ A premium, high-conversion waitlist landing page designed for cutting-edge AI st
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/vrindaatalwar/TorjanHorse_ET-5.git
-    cd ai-agents-waitlist
+    git clone https://github.com/vrindaatalwar/AI-Agent-Waitlist.git
+    cd AI-Agent-Waitlist
     ```
 
 2.  **Install dependencies:**
