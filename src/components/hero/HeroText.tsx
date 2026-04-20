@@ -10,8 +10,8 @@ export const HeroText: React.FC = () => {
                 transition={{ duration: 0.8, ease: "easeOut" }}
                 className="text-5xl md:text-7xl font-normal tracking-tighter text-gray-200 leading-tight font-sans"
             >
-                The Next Generation
-                <br />of<span className="font-sans font-semibold text-white"> AI Agent Workflows</span>.
+                VocaAI - Next generation
+                <br />of<span className="font-sans font-semibold text-white"> hospitality</span>.
             </motion.h1>
 
             <motion.p
@@ -20,7 +20,7 @@ export const HeroText: React.FC = () => {
                 transition={{ duration: 0.8, delay: 0.4, ease: "easeOut" }}
                 className="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto font-sans tracking-tighter"
             >
-                The autonomous agent marketplace where you stop chatting and start building<br />No API keys required. Just credits.
+                Intelligent voice AI solutions designed to transform the guest experience and streamline operations.
             </motion.p>
         </div>
     );

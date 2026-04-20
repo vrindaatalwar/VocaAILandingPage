@@ -15,7 +15,7 @@ export const HeroBadge: React.FC = () => {
                 size="sm"
                 className="px-4 py-2 rounded-full border border-white/20 bg-white/5 backdrop-blur-sm text-white/90 hover:scale-100 cursor-default"
             >
-                <span>AI Agents Waitlist</span>
+                <span>VocaAI</span>
             </LiquidButton>
         </motion.div>
     );

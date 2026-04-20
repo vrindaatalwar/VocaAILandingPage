@@ -42,7 +42,7 @@ export default function App() {
 
       {/* Footer info */}
       <div className="absolute bottom-6 text-center text-white/20 text-sm font-light z-10">
-        © 2025 AI Agents. All rights reserved.
+        © 2025 VocaAI. All rights reserved.
       </div>
       <Toaster position="top-center" />
     </div>
